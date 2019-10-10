@@ -1,7 +1,7 @@
 {
     "id": "org.kde.khangman",
     "runtime": "org.kde.Platform",
-    "runtime-version": "5.12",
+    "runtime-version": "5.13",
     "sdk": "org.kde.Sdk",
     "command": "khangman",
     "rename-icon": "khangman",
@@ -21,8 +21,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/19.08.1/src/libkeduvocdocument-19.08.1.tar.xz",
-                    "sha256": "9e7eb36b0c649231a792f618b28fd110b3782ea086cce81436191e9f73c6674e"
+                    "url": "https://download.kde.org/stable/applications/19.08.2/src/libkeduvocdocument-19.08.2.tar.xz",
+                    "sha256": "74338cb3fcb9346a981585484f758aabd372d1a43afe9facd93d94c229424250"
                 } 
             ]
         },
@@ -32,8 +32,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/19.08.1/src/kdeedu-data-19.08.1.tar.xz",
-                    "sha256": "107dff744219210c732aa007d97c8c8d8e87cff5cd446d987b8ac2600ea1f1b7"
+                    "url": "https://download.kde.org/stable/applications/19.08.2/src/kdeedu-data-19.08.2.tar.xz",
+                    "sha256": "0ead96a7a10ecbf98c88464f9987e7d8e2efdf7879782e5262b5cda694f3e343"
                 } 
             ]
         },
@@ -43,8 +43,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/19.08.1/src/khangman-19.08.1.tar.xz",
-                    "sha256": "eb95c48baa57475319f456ee1df11b715e7ceb5b1912e2657a2b1f4617bf2b26"
+                    "url": "https://download.kde.org/stable/applications/19.08.2/src/khangman-19.08.2.tar.xz",
+                    "sha256": "dfa7d2f19ab7cd7aa90d91bab1818d48e6df88ddebf729732cca8d6aca15d1f3"
                 } 
             ]
         }
