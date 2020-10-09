@@ -20,8 +20,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/20.08.1/src/libkeduvocdocument-20.08.1.tar.xz",
-                    "sha256": "ecd158beb7fcc1a5d540d956669c6fdce6172f4b282755170d2791076d75ad84"
+                    "url": "https://download.kde.org/stable/release-service/20.08.2/src/libkeduvocdocument-20.08.2.tar.xz",
+                    "sha256": "ef8e0b359e3cf1b3303da3795add1ced405d230f51895abe10d5a7989be03923"
                 } 
             ]
         },
@@ -31,8 +31,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/20.08.1/src/kdeedu-data-20.08.1.tar.xz",
-                    "sha256": "d9c10c849f94b8cff7f79747a0594b8050f19d5477799b03f803c4241a9d12b6"
+                    "url": "https://download.kde.org/stable/release-service/20.08.2/src/kdeedu-data-20.08.2.tar.xz",
+                    "sha256": "9030c39b92a7500254e8303ce246d2535cd66a203bb96b2670defd5288294ad1"
                 } 
             ]
         },
@@ -42,8 +42,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/20.08.1/src/khangman-20.08.1.tar.xz",
-                    "sha256": "fe94116ea833295a46c59a7420676925bb1038e7da86f6369d452087add40868"
+                    "url": "https://download.kde.org/stable/release-service/20.08.2/src/khangman-20.08.2.tar.xz",
+                    "sha256": "7ff30ecbab7c9e8f44b7e8c3887ec78a918c919ce902005aeb7fb969ac995b28"
                 } 
             ]
         }
